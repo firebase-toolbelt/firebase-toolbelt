@@ -3,7 +3,7 @@
 
 Tasking is an application built using solely [Firebase](https://firebase.google.com) as its backend.
 We've been testing out it's capabilities since it's early days and we've grown confident in the way we use it to meet our ends.
-Here we'll mantain a list of firebase related utilities we have developed and used in production, as well as other third party libraries we admire and have used as well.
+Here we'll mantain a list of Firebase related utilities we have developed and used in production, as well as other third party libraries we admire and have tried out as well.
 
 ---
 
@@ -20,3 +20,7 @@ Create your Firebase ruleset using plain javascript and lots of helpers for incr
 
 **[targaryen](https://github.com/goldibex/targaryen)**
 Test your Firebase rules without connecting to Firebase.
+
+---
+
+Created by Georges Boris @ [Tasking](https://keeptasking.com)
