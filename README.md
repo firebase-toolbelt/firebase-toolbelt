@@ -1,4 +1,4 @@
-<a align="center" href="https://ibb.co/dNbxg5"><img width="100%" src="https://image.ibb.co/fAcQZQ/Firebase_Toolbelt.png" alt="Firebase Toolbelt" border="0" /></a>
+<a align="center" href="https://ibb.co/dNbxg5"><img width="100%" src="https://preview.ibb.co/jqyook/Firebase_Toolbelt.png" alt="Firebase Toolbelt" border="0" /></a>
 
 > A collection of firebase tools trusted by the tasking team.
 
