@@ -15,7 +15,10 @@ Firebase bindings for a React-Redux application with almost no learning curve an
 A framework for creating secure and mantainable Firebase backed applications without losing development productivity.
 
 **[firebase-rules](https://github.com/tasking/firebase-rules)**
-Create your Firebase ruleset using plain javascript and lots of helpers for increased code reuse and legibility.
+Utility library for creating your Firebase ruleset using plain javascript with lots of helpers for increased code reuse and legibility.
+
+**[firebase-react-paginated](https://github.com/tasking/firebase-react-paginated)**
+Utility library for displaying Firebase dynamic paginated lists.
 
 ---
 
