@@ -1,4 +1,4 @@
-<a align="center" href="https://keeptasking.com"><img width="100%" src="https://image.ibb.co/dJAOM5/Firebase_Toolbelt.png" alt="Firebase Toolbelt" border="0" /></a>
+<a align="center" href="https://keeptasking.com"><img width="100%" src="https://i.imgur.com/CthIMfu.png" alt="Firebase Toolbelt" border="0" /></a>
 
 > A collection of firebase tools trusted by the tasking team.
 
@@ -27,4 +27,4 @@ Test your Firebase rules without connecting to Firebase.
 
 ---
 
-Created by Georges Boris @ [Tasking](https://keeptasking.com)
+Made with ♥ by [Georges Boris](https://georgesboris.com)
