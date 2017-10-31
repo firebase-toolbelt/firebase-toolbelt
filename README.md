@@ -1,6 +1,6 @@
 <a align="center" href="https://keeptasking.com"><img width="100%" src="https://i.imgur.com/CthIMfu.png" alt="Firebase Toolbelt" border="0" /></a>
 
-> A collection of firebase tools trusted by the tasking team.
+> A collection of firebase tools trusted by the [Tasking](https://keeptasking.com) team.
 
 Tasking is an application built using solely [Firebase](https://firebase.google.com) as its backend.
 We've been testing out it's capabilities since it's early days and we've grown confident in the way we use it to meet our ends.
