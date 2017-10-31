@@ -8,16 +8,16 @@ Here we'll mantain a list of Firebase related utilities we have developed and us
 
 ---
 
-**[firebase-sync](https://github.com/tasking/firebase-sync)**
+**[firebase-sync](https://github.com/firebase-toolbelt/firebase-sync)**
 Firebase bindings for a React-Redux application with almost no learning curve and tons of productivity enhancements. 
 
-**[firebase-app](https://github.com/tasking/firebase-app)**
+**[firebase-app](https://github.com/firebase-toolbelt/firebase-app)**
 A framework for creating secure and mantainable Firebase backed applications without losing development productivity.
 
-**[firebase-rules](https://github.com/tasking/firebase-rules)**
+**[firebase-rules](https://github.com/firebase-toolbelt/firebase-rules)**
 Utility library for creating your Firebase ruleset using plain javascript with lots of helpers for increased code reuse and legibility.
 
-**[firebase-react-paginated](https://github.com/tasking/firebase-react-paginated)**
+**[firebase-react-paginated](https://github.com/firebase-toolbelt/firebase-react-paginated)**
 Utility library for displaying Firebase dynamic paginated lists.
 
 ---
