@@ -1,3 +1,8 @@
+> ⚠️ **Important** ⚠️
+> This repository is not actively maintained so feel free to fork it and improve it. I've not been using Firebase for years - so I'm not motivated to continue maintaining libraries around it.
+
+---
+
 <a align="center" href="https://keeptasking.com"><img width="100%" src="https://i.imgur.com/CthIMfu.png" alt="Firebase Toolbelt" border="0" /></a>
 
 > A collection of firebase tools trusted by the [Tasking](https://keeptasking.com) team.
